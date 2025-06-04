@@ -30,7 +30,6 @@ html, body {
   padding: 1rem;
 }
 
-
 /* Чтобы карточки не растягивались на всю ширину */
 .cards {
   display: grid;
